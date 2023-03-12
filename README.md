@@ -21,10 +21,14 @@
 ## 📫 Find me on Social Platforms :
 
 <div id="badges">
-  <a href="https://outlook.live.com/mail/0/">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
-  </a>  
-  <a href="https://www.linkedin.com/in/muhammad-usama-4b8832210/">
+  
+    <a href="https://www.linkedin.com/in/rameezahmed25/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
+  
+   <a href="https://outlook.live.com/mail/0/">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a> 
+  
+  
 </div>
