@@ -10,10 +10,7 @@ Here are some ideas to get you started:
 
 
 ### :hammer_and_pick: Frameworks & Libraries
-<div id="Skills">
-     <a href="https://www.youtube.com/channel/UCM1xR4JMhtWSpWTVyt3-UbQ">
-     
-</div>
+[link](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
 
