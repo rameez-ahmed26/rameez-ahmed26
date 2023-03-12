@@ -3,8 +3,7 @@
 ## :man_technologist: Inquisitive AI engineer
 
 - 🔭 I’m currently working on **Data Science** 
-- 👯 I’m looking to collaborate in the Field Of **A.I** & **Data Science**
-
+- 🏃‍♂️	I’m looking to collaborate in the fild of **A.I** & **Data science**
 
 
 ## My Github States
@@ -20,4 +19,6 @@
 
 
 
-- 📫 How to reach me: ...
+- 📫 Find me on Social Platforms :
+- 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)	![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
