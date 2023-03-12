@@ -10,7 +10,7 @@
 ## My Github States
 
 
-![States](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rameez-ahmed26&theme=cobalt)
+![States](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rameez-ahmed26&theme=synthwave)
 
 
 
