@@ -28,6 +28,8 @@
    <a href="https://outlook.live.com/mail/0/">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
    </a> 
-  
-  
+   <a href="https://twitter.com/rameezahmed25/">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+   </a> 
+    
 </div>
