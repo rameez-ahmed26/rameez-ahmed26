@@ -6,7 +6,7 @@
 - 🏃‍♂️	I’m looking to collaborate in the fild of **A.I** & **Data science**
 
 
-## My Github States
+##  States Visualization
 
 
 ![States](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rameez-ahmed26)
