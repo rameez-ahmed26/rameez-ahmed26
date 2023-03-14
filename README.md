@@ -1,6 +1,6 @@
-### Hi there 👋
+#### Hi there 👋
 
-## :man_technologist: Inquisitive AI engineer
+# :man_technologist: Inquisitive AI engineer
 
 - 🔭 I’m currently working on **Data Science** 
 - 🏃‍♂️	I’m looking to collaborate in the fild of **A.I** & **Data science**
